@@ -148,8 +148,44 @@ namespace ChatBotAI
                     }
                     continue;
                 }
+                // Conversation Flow - More Info Requests
+                if ((userInput.Contains("tell me more") || userInput.Contains("tips")) && !string.IsNullOrEmpty(lastTopic))
+                {
+                    var topicResponses = library.data.Where(x => x.Subject.Equals(lastTopic, StringComparison.OrdinalIgnoreCase)).ToList();
+                    var random = new Random();
+                    var response = topicResponses[random.Next(topicResponses.Count)].Content;
 
+                    Border.WriteBorderedMessage($"More about {lastTopic.ToUpper()}:\n\n{response}\n\nIf ready to end session type exit.");
+                    continue;
+                }
 
+                if ((userInput.Contains("confused") || userInput.Contains("what do you mean")) && !string.IsNullOrEmpty(lastTopic))
+                {
+                    var topicResponses = library.data.Where(x => x.Subject.Equals(lastTopic, StringComparison.OrdinalIgnoreCase)).ToList();
+                    Border.WriteBorderedMessage($"Let me rephrase {lastTopic.ToUpper()}:\n\n{topicResponses.First().Content}\n\nIf ready to end session type exit.");
+                    continue;
+                }
+
+                // Topic Matching
+                var matched = library.data
+                    .Where(x => userInput.Contains(x.Subject.ToLower()))
+                    .Select(x => x.Subject)
+                    .Distinct()
+                    .FirstOrDefault();
+
+                if (matched == null)
+                {
+                    Border.WriteLineColored("🤔 I didn’t quite understand that. Please rephrase or try a different topic.", ConsoleColor.Red);
+                }
+                else
+                {
+                    lastTopic = matched;
+                    var topicResponses = library.data.Where(x => x.Subject.Equals(matched, StringComparison.OrdinalIgnoreCase)).ToList();
+                    var random = new Random();
+                    var response = topicResponses[random.Next(topicResponses.Count)].Content;
+
+                    Border.WriteBorderedMessage($"🧠 Topic: {lastTopic.ToUpper()}:\n\n{topicResponses.First().Content}\n\nIf ready to end session type exit.");
+                }
             }
         }
     }
