@@ -77,6 +77,79 @@ namespace ChatBotAI
                     Border.WriteLineColored("Memory cleared!", ConsoleColor.Magenta);
                     continue;
                 }
+                // Sentiment Detection - Negative Emotions
+                if (userInput.Contains("sad") || userInput.Contains("upset") || userInput.Contains("angry") || userInput.Contains("frustrated"))
+                {
+                    if (!string.IsNullOrEmpty(lastTopic))
+                    {
+                        var topicMatch = library.data
+                            .FirstOrDefault(x => x.Subject.Equals(lastTopic, StringComparison.OrdinalIgnoreCase));
+
+                        if (topicMatch != null)
+                        {
+                            Border.WriteLineColored($"I'm sorry you're feeling that way about {topicMatch.Subject.ToUpper()}.\nIf you'd like, I can share something about cybersecurity to help distract you.", ConsoleColor.Magenta);
+                        }
+                        else
+                        {
+                            Border.WriteLineColored("I'm sorry you're feeling that way. Let me share something general about cybersecurity to help distract you.", ConsoleColor.Magenta);
+                        }
+                    }
+                    else
+                    {
+                        Border.WriteLineColored("I'm sorry you're feeling that way. Ask me something about cybersecurity to help distract you.", ConsoleColor.Magenta);
+                    }
+                    continue;
+                }
+
+                // Sentiment Detection - Positive Emotions
+                if (userInput.Contains("happy") || userInput.Contains("excited") || userInput.Contains("glad") || userInput.Contains("great"))
+                {
+                    if (!string.IsNullOrEmpty(lastTopic))
+                    {
+                        var topicMatch = library.data
+                            .FirstOrDefault(x => x.Subject.Equals(lastTopic, StringComparison.OrdinalIgnoreCase));
+
+                        if (topicMatch != null)
+                        {
+                            Border.WriteLineColored($"That's great to hear! Glad you're enjoying {topicMatch.Subject.ToUpper()}.\nLet me know what you'd like to learn today.", ConsoleColor.Green);
+                        }
+                        else
+                        {
+                            Border.WriteLineColored("That's great to hear! Let me know what you'd like to learn today.", ConsoleColor.Green);
+                        }
+                    }
+                    else
+                    {
+                        Border.WriteLineColored("That's great to hear! Let me know what you'd like to learn today.", ConsoleColor.Green);
+                    }
+                    continue;
+                }
+
+                // Sentiment Detection - Boredom or Low Energy
+                if (userInput.Contains("bored") || userInput.Contains("meh") || userInput.Contains("tired"))
+                {
+                    if (!string.IsNullOrEmpty(lastTopic))
+                    {
+                        var topicMatch = library.data
+                            .FirstOrDefault(x => x.Subject.Equals(lastTopic, StringComparison.OrdinalIgnoreCase));
+
+                        if (topicMatch != null)
+                        {
+                            Border.WriteLineColored($"It seems like {topicMatch.Subject.ToUpper()} isn't quite your thing.\nLet's switch it up with another cybersecurity topic!", ConsoleColor.DarkYellow);
+                        }
+                        else
+                        {
+                            Border.WriteLineColored("Sounds like you're not into the current topic. Let's spark interest with something new!", ConsoleColor.DarkYellow);
+                        }
+                    }
+                    else
+                    {
+                        Border.WriteLineColored("Feeling bored? Let's spark some interest with a new cybersecurity topic!", ConsoleColor.DarkYellow);
+                    }
+                    continue;
+                }
+
+
             }
         }
     }
