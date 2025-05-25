@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01B4C626-2C0C-4655-AC8F-8A3AAF151C3D}|ChatBotAI.csproj|c:\\users\\lab_services_student\\pictures\\sarjooerin_st10450571_prog_poe_p2\\chatbotai\\menuedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B4C626-2C0C-4655-AC8F-8A3AAF151C3D}|ChatBotAI.csproj|solutionrelative:menuedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B4C626-2C0C-4655-AC8F-8A3AAF151C3D}|ChatBotAI.csproj|c:\\users\\lab_services_student\\pictures\\sarjooerin_st10450571_prog_poe_p2\\chatbotai\\border.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B4C626-2C0C-4655-AC8F-8A3AAF151C3D}|ChatBotAI.csproj|solutionrelative:border.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B4C626-2C0C-4655-AC8F-8A3AAF151C3D}|ChatBotAI.csproj|c:\\users\\lab_services_student\\pictures\\sarjooerin_st10450571_prog_poe_p2\\chatbotai\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B4C626-2C0C-4655-AC8F-8A3AAF151C3D}|ChatBotAI.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B4C626-2C0C-4655-AC8F-8A3AAF151C3D}|ChatBotAI.csproj|c:\\users\\lab_services_student\\pictures\\sarjooerin_st10450571_prog_poe_p2\\chatbotai\\imagedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B4C626-2C0C-4655-AC8F-8A3AAF151C3D}|ChatBotAI.csproj|solutionrelative:imagedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B4C626-2C0C-4655-AC8F-8A3AAF151C3D}|ChatBotAI.csproj|c:\\users\\lab_services_student\\pictures\\sarjooerin_st10450571_prog_poe_p2\\chatbotai\\chatbotdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B4C626-2C0C-4655-AC8F-8A3AAF151C3D}|ChatBotAI.csproj|solutionrelative:chatbotdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B4C626-2C0C-4655-AC8F-8A3AAF151C3D}|ChatBotAI.csproj|c:\\users\\lab_services_student\\pictures\\sarjooerin_st10450571_prog_poe_p2\\chatbotai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B4C626-2C0C-4655-AC8F-8A3AAF151C3D}|ChatBotAI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B4C626-2C0C-4655-AC8F-8A3AAF151C3D}|ChatBotAI.csproj|c:\\users\\lab_services_student\\pictures\\sarjooerin_st10450571_prog_poe_p2\\chatbotai\\greeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B4C626-2C0C-4655-AC8F-8A3AAF151C3D}|ChatBotAI.csproj|solutionrelative:greeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B4C626-2C0C-4655-AC8F-8A3AAF151C3D}|ChatBotAI.csproj|c:\\users\\lab_services_student\\pictures\\sarjooerin_st10450571_prog_poe_p2\\chatbotai\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B4C626-2C0C-4655-AC8F-8A3AAF151C3D}|ChatBotAI.csproj|solutionrelative:audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B4C626-2C0C-4655-AC8F-8A3AAF151C3D}|ChatBotAI.csproj|c:\\users\\lab_services_student\\pictures\\sarjooerin_st10450571_prog_poe_p2\\chatbotai\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B4C626-2C0C-4655-AC8F-8A3AAF151C3D}|ChatBotAI.csproj|solutionrelative:utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B4C626-2C0C-4655-AC8F-8A3AAF151C3D}|ChatBotAI.csproj|c:\\users\\lab_services_student\\pictures\\sarjooerin_st10450571_prog_poe_p2\\chatbotai\\assets\\chatbotdata.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{01B4C626-2C0C-4655-AC8F-8A3AAF151C3D}|ChatBotAI.csproj|solutionrelative:assets\\chatbotdata.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\ImageDisplay.cs",
+              "RelativeDocumentMoniker": "ImageDisplay.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\ImageDisplay.cs",
+              "RelativeToolTip": "ImageDisplay.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAEwDQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:54:03.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "border.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\border.cs",
+              "RelativeDocumentMoniker": "border.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\border.cs",
+              "RelativeToolTip": "border.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:46:35.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\Utils.cs",
+              "RelativeDocumentMoniker": "Utils.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\Utils.cs",
+              "RelativeToolTip": "Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:46:27.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "AudioPlayer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\AudioPlayer.cs",
+              "RelativeToolTip": "AudioPlayer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:46:23.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatBotData.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\ChatBotData.cs",
+              "RelativeDocumentMoniker": "ChatBotData.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\ChatBotData.cs",
+              "RelativeToolTip": "ChatBotData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:46:19.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:36:56.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenueDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\MenueDisplay.cs",
+              "RelativeDocumentMoniker": "MenueDisplay.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\MenueDisplay.cs",
+              "RelativeToolTip": "MenueDisplay.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:48:50.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Greeting.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\Greeting.cs",
+              "RelativeDocumentMoniker": "Greeting.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\Greeting.cs",
+              "RelativeToolTip": "Greeting.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAnwFIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:32:16.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:34:40.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChatBotData.txt",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\Assets\\ChatBotData.txt",
+              "RelativeDocumentMoniker": "Assets\\ChatBotData.txt",
+              "ToolTip": "C:\\Users\\lab_services_student\\Pictures\\sarjooerin_ST10450571_PROG_POE_P2\\ChatBotAI\\Assets\\ChatBotData.txt",
+              "RelativeToolTip": "Assets\\ChatBotData.txt",
+              "ViewState": "AgIAADEAAAAAAAAAAAAhwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-22T18:32:50.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

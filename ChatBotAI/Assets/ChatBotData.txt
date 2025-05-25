@@ -1,0 +1,154 @@
+# Definitions
+phishing | Phishing is a type of cyber attack where attackers impersonate legitimate institutions via email, text, or websites to trick individuals into providing sensitive information like passwords or credit card numbers. Always check the sender’s address and never click on suspicious links. Look for grammatical errors or urgent language, which are common red flags.
+
+scam | A scam is a fraudulent attempt to deceive someone, usually for financial gain. Scammers often impersonate trusted individuals or organizations through email, calls, or messages.
+
+password | A password is a secret string of characters used to verify a user's identity and grant access to digital systems, accounts, or devices. It acts as the first line of defense against unauthorized access.
+
+malware | Malware is short for 'malicious software' and includes viruses, worms, trojans, ransomware, and spyware. It’s designed to harm or exploit devices and data. Avoid downloading software from untrusted sources and keep your antivirus software up to date.
+
+ransomware | Ransomware is a type of malware that encrypts a user’s data and demands payment to restore access. Paying the ransom is not recommended, as it doesn’t guarantee data recovery. Regular backups and updated security software are the best defenses.
+
+strong password | A strong password is at least 12 characters long and includes a mix of uppercase and lowercase letters, numbers, and symbols. Avoid using personal information or common words. Use a password manager to help generate and store strong passwords securely.
+
+two-factor authentication | Two-Factor Authentication (2FA) adds an extra layer of security by requiring not just a password, but also something you have (like a phone for a text code) or something you are (like a fingerprint). Enabling 2FA significantly reduces the chances of unauthorized access.
+
+social engineering | Social engineering is the manipulation of individuals to gain confidential information. Attackers may pose as trusted figures like IT support or HR. Always verify requests for sensitive information, especially over the phone or via email.
+
+wifi security | Public Wi-Fi networks are often insecure. Avoid logging into sensitive accounts or conducting financial transactions on public Wi-Fi. Use a VPN to encrypt your internet connection when on public networks.
+
+update software | Software updates often contain important security patches that fix known vulnerabilities. Enable automatic updates whenever possible to ensure your system stays secure.
+
+antivirus software | Antivirus software helps detect and prevent threats like malware. It should be regularly updated to recognize new threats. While it's a crucial defense layer, it's most effective when combined with smart online behavior.
+
+identity theft | Identity theft occurs when someone steals your personal information to commit fraud. Monitor your financial accounts, use strong passwords, and never share personal data unless you’re certain of the recipient’s identity.
+
+# Predefined Questions
+how are you | I'm good thank you! :)
+what's your purpose | 🛡️ My purpose is to help you understand and stay safe in the digital world. I’m your Cybersecurity Awareness Assistant, here to guide you through best practices, explain cybersecurity concepts, and answer your questions about online safety. Think of me as your digital bodyguard!
+what can i ask you | 💬 You can ask me anything related to cybersecurity! For example: What is phishing? How do I create a strong password? What should I do if I suspect a cyber attack? Is public Wi-Fi safe? I'm here to explain concepts and give you tips to protect your data and devices.
+are you a real person | 🤖 Nope! I’m a chatbot created to assist you with cybersecurity questions. I don't have feelings or a face, but I do have tons of helpful information to keep you cyber-safe!
+who created you | I was created by Erin Sarjoo as part of a cybersecurity project. I combine knowledge, coding, and a touch of personality to help users like you learn about staying safe online.
+how do I stay safe online | 🔐 Use strong passwords. Be cautious with emails. Enable 2FA. Keep software updated. Don't overshare personal info. Ask me more for tips!
+how do I use you | Simply type a topic like 'phishing' or ask a question like 'how do I create a strong password' and I'll respond with helpful info.
+what is cybersecurity | Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks that aim to access, change, or destroy sensitive information.
+
+# Keyword Tips
+password | 🔐 Make sure to use strong, unique passwords for each account. Avoid using personal details.
+scam | 🚨 Be alert! Scammers often impersonate legitimate sources. Don’t click suspicious links.
+privacy | 🛡️ Protect your privacy by reviewing your social media and browser settings regularly.
+
+# Randomized Responses
+Phishing | Be cautious of emails asking for personal information.
+Phishing | Never click on links in emails from unknown sources.
+Phishing | Check the sender’s email address for legitimacy.
+Phishing | Hover over links to see the real URL before clicking.
+Phishing | Watch for urgent language — it's a common tactic.
+Phishing | Phishing emails often have grammar or spelling mistakes.
+Phishing | Don't trust unexpected attachments or login requests.
+
+Scam | Avoid deals that sound too good to be true.
+Scam | Never send money to unknown online sellers.
+Scam | Check website URLs — scammers mimic trusted sites.
+Scam | Use official platforms for communication and payment.
+Scam | Verify contests and giveaways before entering.
+Scam | Don’t trust unsolicited messages offering prizes.
+Scam | Always research before engaging with unfamiliar websites.
+
+
+Password | Use strong, unique passwords for every account.
+Password | Avoid using birthdays or personal info in passwords.
+Password | Consider using a password manager for security.
+Password | Update your passwords regularly.
+Password | Never share your passwords with anyone.
+Password | Use a mix of letters, numbers, and special characters.
+Password | Don’t reuse passwords across different sites.
+
+Privacy | Review and limit app permissions on your phone.
+Privacy | Use private browsing when accessing sensitive content.
+Privacy | Think twice before sharing personal details online.
+Privacy | Adjust privacy settings on social media platforms.
+Privacy | Use encrypted messaging apps to keep chats secure.
+Privacy | Avoid posting location details in real time.
+Privacy | Regularly check who can see your online profiles.
+
+Device | Keep your operating system and apps up to date.
+Device | Use antivirus software and scan regularly.
+Device | Don’t install apps from unknown sources.
+Device | Set a screen lock with PIN, fingerprint, or pattern.
+Device | Enable remote wipe in case your device gets stolen.
+Device | Avoid rooting or jailbreaking your device.
+Device | Uninstall apps you no longer use.
+
+WiFi | Avoid using public Wi-Fi for sensitive transactions.
+WiFi | Use a VPN to protect your connection on public networks.
+WiFi | Change the default password of your home Wi-Fi router.
+WiFi | Disable Wi-Fi when not in use.
+WiFi | Use WPA3 encryption if your router supports it.
+WiFi | Don’t auto-connect to unknown Wi-Fi networks.
+WiFi | Regularly update your router’s firmware.
+
+Data Breach | Use a data breach monitoring service like HaveIBeenPwned.
+Data Breach | If your data was leaked, change your passwords right away.
+Data Breach | Be cautious of phishing emails following a known breach.
+Data Breach | Use 2FA to protect your accounts from compromised credentials.
+Data Breach | Freeze your credit if sensitive financial data is exposed.
+Data Breach | Monitor your bank and credit card statements closely.
+Data Breach | Don’t reuse passwords that were part of a breach.
+
+Identity Theft | Don’t share personal info over unsecured channels.
+Identity Theft | Check your bank and credit reports regularly.
+Identity Theft | Use strong passwords and 2FA.
+Identity Theft | Shred documents with personal info.
+Identity Theft | Be cautious of unexpected calls asking for ID.
+Identity Theft | Report lost IDs and credit cards immediately.
+Identity Theft | Watch out for phishing scams.
+
+Antivirus Software | Run antivirus scans regularly.
+Antivirus Software | Keep your antivirus software up to date.
+Antivirus Software | Free versions are good, but paid ones offer more protection.
+Antivirus Software | Combine antivirus with safe browsing habits.
+Antivirus Software | Don't disable antivirus for downloads.
+Antivirus Software | Use only trusted antivirus brands.
+Antivirus Software | Check that real-time protection is enabled.
+
+Update Software | Always update your system when prompted.
+Update Software | Updates patch known security weaknesses.
+Update Software | Enable auto-updates on your devices.
+Update Software | Don’t ignore update reminders.
+Update Software | Hackers exploit outdated software.
+Update Software | Keep all apps and plugins current.
+Update Software | Restart your device after updates.
+
+Social Engineering | Always verify identity before sharing info.
+Social Engineering | Don’t trust unsolicited calls or messages.
+Social Engineering | Attackers may use personal details to gain trust.
+Social Engineering | If unsure, hang up and call the person back.
+Social Engineering | Double-check email requests with your team.
+Social Engineering | Don’t click on links from unexpected messages.
+Social Engineering | Even familiar names can be faked.
+
+Two-Factor Authentication | 2FA protects your account even if your password is leaked.
+Two-Factor Authentication | Use SMS, app-based, or biometric 2FA methods.
+Two-Factor Authentication | Enable 2FA on all sensitive accounts.
+Two-Factor Authentication | It takes seconds to set up but adds strong protection.
+Two-Factor Authentication | Use authenticator apps over SMS when possible.
+Two-Factor Authentication | Even hackers with your password can't get in with 2FA.
+Two-Factor Authentication | Many platforms offer free 2FA options.
+
+Ransomware | Backup your files regularly to avoid loss.
+Ransomware | Don't pay the ransom—it doesn’t guarantee access.
+Ransomware | Ransomware often comes via phishing emails.
+Ransomware | Keep security software updated.
+Ransomware | Disconnect infected devices immediately.
+Ransomware | Ransomware encrypts documents and photos.
+Ransomware | Use anti-ransomware tools and recovery software.
+
+Malware | Avoid downloading files from untrusted websites.
+Malware | Malware can be hidden in email attachments.
+Malware | Outdated software is more vulnerable to malware.
+Malware | Malware can slow down or crash your system.
+Malware | Use antivirus software to detect and remove threats.
+Malware | Don’t click strange pop-ups or ads.
+Malware | Run regular system scans for safety.
+
